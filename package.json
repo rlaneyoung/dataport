@@ -1,0 +1,33 @@
+{
+  "name": "dataport",
+  "version": "1.0.0",
+  "description": "A Node.js module for data routing.",
+  "main": "dataport.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "request": "^2.81.0",
+    "ws": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlaneyoung/dataport.git"
+  },
+  "keywords": [
+    "Node",
+    "dataport",
+    "data",
+    "routing",
+    "middleware",
+    "AI"
+  ],
+  "author": "rlaneyoung (RLY)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rlaneyoung/dataport/issues"
+  },
+  "homepage": "https://github.com/rlaneyoung/dataport#readme"
+}
