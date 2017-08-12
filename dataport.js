@@ -15,7 +15,7 @@ class dataport{
     const dataport = this;
     dataport.ports[name] = new port;
     return dataport.ports[name];
-	}
+  }
 
 }
 
