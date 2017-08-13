@@ -1,6 +1,6 @@
 {
   "name": "dataport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js module for data routing.",
   "main": "dataport.js",
   "dependencies": {},
