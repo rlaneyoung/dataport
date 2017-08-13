@@ -6,7 +6,7 @@
 
 `dataport` is a simple javascript data routing module for creating intelligent interaction with incoming and outgoing data for any context.
 
-#### - Version: 1.0.0
+#### - Version: 1.0.2
 
 ## Table of Contents
 
